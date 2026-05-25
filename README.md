@@ -93,10 +93,10 @@ start main.exe
 
 | Estrutura | Operações | Tempo |
 |------------|------------|--------|
-| Pilha | 100000 inserções/remoções | 9.7 s |
-| Fila Linear | 100000 inserções/remoções | 5.3 s |
-| Fila Circular | 100000 inserções/remoções | 5.4 s |
-| Fila de Prioridade | 100000 inserções/remoções | 5.2 s |
+| Pilha | 100000 inserções/remoções |  3.659000 s |
+| Fila Linear | 100000 inserções/remoções | 3.369000 s |
+| Fila Circular | 100000 inserções/remoções | 3.40900 s |
+| Fila de Prioridade | 100000 inserções/remoções | 3.556000 s |
 
 ### Teste de estresse
 
